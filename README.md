@@ -1,0 +1,1 @@
+# Exercicio5_ParesFor_PauloAraujo
